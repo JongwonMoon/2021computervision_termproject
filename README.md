@@ -3,6 +3,8 @@
 ## 3단계 텀 프로젝트
 Leaf Disease Recognition 
 
+
+
 ## 구현 논문
 Effective Data Augmentation and Training Techniques for Improving Deep Learning in Plant Leaf Disease Recognition
 
